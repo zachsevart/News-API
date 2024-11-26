@@ -18,3 +18,5 @@ A simple and responsive news website built with HTML, CSS, and JavaScript. This 
 
 ## Project Structure
 
+├── index.html # Main HTML file ├── style.css # Styling file ├── script.js # Main JavaScript file ├── fff.png # Placeholder image for articles
+
